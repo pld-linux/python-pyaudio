@@ -2,7 +2,7 @@
 Summary:	Python bindings for PortAudio
 Name:		python-%{module}
 Version:	0.2.4
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Languages/Python
 Source0:	http://people.csail.mit.edu/hubert/pyaudio/packages/%{module}-%{version}.tar.gz
